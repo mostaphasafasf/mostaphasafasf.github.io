@@ -1,0 +1,85 @@
+@media screen and (max-width: 1300px){
+	body{width:100%;}
+	.most{
+		width: 100%;
+	}
+	.quote{
+		width: 80%;
+	}
+	.PART2{
+		width: 40%;
+		padding-right: 8%;
+	}
+	
+	
+}
+
+
+
+@media screen and (max-width: 1247px){
+	body{width:100%;}
+	.all{
+		width: 90%;
+	}
+	.lawn{width: 90%;}
+
+}
+@media screen and (max-width: 1080px){
+	body{width:100%;}
+	.lawn{
+		display: none;
+
+	}
+	.lawnbo{
+		display: block;
+		text-align: center;
+		padding-top: 50px;
+
+
+	}
+	.lawnbo ul{
+				padding-left: 0;
+				padding-right: 0;
+	}
+	.lawnbo li{
+		text-decoration: none;
+		list-style: none;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.lawnli0bo{
+		color: #fff;
+		width: 90%;
+	}
+	.lawnli1bo{
+		margin-top: 50px;
+		width: 210px;
+		height: 55px;
+		
+	}
+	.lawnli1bo h4{
+    	
+    	line-height: 55px;
+    	border-radius: 1px;
+    	background-color: #1caebc;
+    	color: #fff;
+    	text-align: center;
+    	font-size: 17px;
+    	font-weight: bold;
+	}
+}
+@media screen and (max-width: 1040px){
+	body{width:100%;}
+	.PART1{
+		width: 40%;
+		padding-left: 8%;
+	}
+	.PART2{
+		width: 40%;
+		padding-right: 8%;
+	}
+	.clonetb1 a,.clonetb2 a , .clonetb3 a , .clonetb4 a , .clonetb5 a , .clonetb6 a{
+		font-size: 13px;
+
+	}
+}
